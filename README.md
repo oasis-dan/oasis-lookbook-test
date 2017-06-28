@@ -12,11 +12,11 @@ Good luck!
 
 ## Part 1 - index.html
 
-Your challenge is to build this feature using breakpoints create a seemless experience on mobile, tablet and desktop (you may choose your own breakpoints). 
+Your challenge is to build the Lookbook feature using breakpoints to create a seamless experience on mobile, tablet and desktop (you may choose your own breakpoints).
 
 ## Part 2 - customer.html
 
-js/part2.js is an object containing data of a fictional Oasis customer, please console log the following details: 
+js/customer.js is an object containing data of a fictional Oasis customer, please console log the following details:
 
 First Name
 Last Name
