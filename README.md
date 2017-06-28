@@ -18,6 +18,6 @@ Your challenge is to build the Lookbook feature using breakpoints to create a se
 
 js/customer.js is an object containing data of a fictional Oasis customer, please console log the following details onto customer.html:
 
-First Name
-Last Name
-Email Address
+- First Name
+- Last Name
+- Email Address
