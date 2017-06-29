@@ -6,7 +6,7 @@ This is a two hour test to check your skills in HTML, CSS and JavaScript. We wan
 
 This repository contains all the designs and assets you will require; such as fonts and images.
 
-Within the two hour time slot you must either commit your changes as a new branch to this repository, or zip your files and email it to danbas@oasis-stores.co.uk.
+Once you have completed the test please zip your files and email this to danbas@oasis-stores.co.uk.
 
 Good luck!
 
