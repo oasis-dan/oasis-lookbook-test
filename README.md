@@ -4,7 +4,7 @@ Thank you for your application for the Junior Web Developer role at Oasis Fashio
 
 This is a two hour test to check your skills in HTML, CSS and JavaScript. We want you to feel at ease and able to program in your own environment using your own tech stack, so relax, grab a tea or coffee and begin!
 
-This repository contains all the designs and assets you will require; such as fonts and images.
+This repository contains all the designs and assets you will require.
 
 Once you have completed the test please zip your files and email this to danbas@oasis-stores.co.uk.
 
